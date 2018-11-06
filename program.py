@@ -1,0 +1,2 @@
+msgd = "qwe"
+print(msgd)
